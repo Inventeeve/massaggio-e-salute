@@ -9,7 +9,10 @@ const SocialSection = ({ posts }) => {
   }
   return (
     <>
-      <div className="relative pb-20 px-4 sm:px-6 lg:pt-24 lg:pb-28 lg:px-8" id="socials">
+      <div
+        className="relative pb-20 px-4 sm:px-6 lg:pt-24 lg:pb-28 lg:px-8"
+        id="socials"
+      >
         <div className="absolute inset-0">
           <div className="bg-white h-1/3 sm:h-2/3"></div>
         </div>
@@ -47,7 +50,7 @@ const SocialSection = ({ posts }) => {
                   </div>
                   <div className="flex-1 bg-white p-6 flex flex-col justify-between">
                     <div className="flex-1">
-                      <p className="text-sm leading-5 font-medium text-pink-600 flex items-center">
+                      <p className="text-sm leading-5 font-medium text-yellow-600 flex items-center">
                         <InstagramIcon className="h-6 w-6 mr-2" />
                         <a
                           href={`https://instagram.com/p/${id}`}

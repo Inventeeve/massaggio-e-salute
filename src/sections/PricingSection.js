@@ -51,7 +51,7 @@ const PricingSections = ({ prices }) => (
                       <li key={key}>
                         <span className="flex space-x-3">
                           <svg
-                            className="flex-shrink-0 h-5 w-5 text-pink-500"
+                            className="flex-shrink-0 h-5 w-5 text-yellow-500"
                             aria-hidden="true"
                             xmlns="http://www.w3.org/2000/svg"
                             viewBox="0 0 20 20"

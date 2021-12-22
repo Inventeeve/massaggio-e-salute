@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: /
-featuredImage: /images/logo.png
-title: Sirio
-subtitle: la stella del benessere
+featuredImage: /images/camille-brodard-vxawteiqdao-unsplash.jpg
+title: Massggio è salute
+subtitle: "[ sottotitolo ]"
 focusmessage:
   messagedate: ""
   messagetitle: ""

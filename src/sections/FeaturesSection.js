@@ -7,7 +7,7 @@ const FeaturesSection = ({ focusMessage, blurbs }) => (
       <div className="mx-auto px-4 sm:px-6 lg:px-8">
         {focusMessage && (
           <div className="sm:text-center">
-            <p className="text-base leading-6 text-pink-600 font-semibold tracking-wide uppercase">
+            <p className="text-base leading-6 text-yellow-600 font-semibold tracking-wide uppercase">
               {focusMessage.messagedate}
             </p>
             <h3 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">

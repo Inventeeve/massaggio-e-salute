@@ -18,7 +18,7 @@ const HeaderSection = ({ data }) => {
           <div className="-mr-2">
             <button
               type="button"
-              className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-pink-500"
+              className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-yellow-500"
               onClick={() => setOpenMenu(false)}
             >
               <span className="sr-only">Close main menu</span>
@@ -33,7 +33,7 @@ const HeaderSection = ({ data }) => {
               href={nav.link}
               className={`${key > 1 && "mt-1"} ${
                 nav.type === "accent"
-                  ? `text-pink-600 bg-gray-50 hover:bg-gray-100 hover:text-pink-700 focus:bg-gray-100 focus:text-pink-700 `
+                  ? `text-yellow-600 bg-gray-50 hover:bg-gray-100 hover:text-yellow-700 focus:bg-gray-100 focus:text-yellow-700 `
                   : `text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:text-gray-900 focus:bg-gray-50 `
               } focus:outline-none block px-3 py-2 rounded-md text-base font-medium  transition duration-150 ease-in-out`}
               role="menuitem"
@@ -55,7 +55,7 @@ const HeaderSection = ({ data }) => {
             <div className="-mr-2">
               <button
                 type="button"
-                className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-pink-500"
+                className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-yellow-500"
                 onClick={() => setOpenMenu(true)}
               >
                 <span className="sr-only">Close main menu</span>
@@ -71,7 +71,7 @@ const HeaderSection = ({ data }) => {
                   href={nav.link}
                   className={`${
                     nav.type === "accent"
-                      ? `text-pink-600 hover:text-pink-900`
+                      ? `text-yellow-600 hover:text-yellow-900`
                       : `text-gray-500 hover:text-gray-900`
                   } mx-4 font-medium transition duration-150 ease-in-out`}
                 >
@@ -103,7 +103,7 @@ const HeaderSection = ({ data }) => {
                   {data.title}
                   <br />
                 </h2>
-                <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-pink-600 sm:text-4xl sm:leading-none md:text-4xl">
+                <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-yellow-600 sm:text-4xl sm:leading-none md:text-4xl">
                   {data.subtitle}
                 </h2>
                 <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
@@ -113,7 +113,7 @@ const HeaderSection = ({ data }) => {
                   <div className="rounded-md shadow">
                     <a
                       href="#blurbs"
-                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-pink-600 hover:bg-pink-500 focus:outline-none focus:border-pink-700 focus:shadow-outline-green transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-500 focus:outline-none focus:border-yellow-700 focus:shadow-outline-green transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
                     >
                       Scopri di più
                     </a>
@@ -121,7 +121,7 @@ const HeaderSection = ({ data }) => {
                   <div className="mt-3 sm:mt-0 sm:ml-3">
                     <a
                       href="#contacts"
-                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-pink-700 bg-pink-100 hover:text-pink-600 hover:bg-pink-50 focus:outline-none focus:shadow-outline-green focus:border-pink-300 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-yellow-700 bg-yellow-100 hover:text-yellow-600 hover:bg-yellow-50 focus:outline-none focus:shadow-outline-green focus:border-yellow-300 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
                     >
                       Contattaci
                     </a>
