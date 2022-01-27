@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: /
-featuredImage: /images/camille-brodard-vxawteiqdao-unsplash.jpg
+featuredImage: /images/logo.jpg
 title: Massaggio è salute
-subtitle: "[ sottotitolo ]"
+subtitle: ""
 focusmessage:
   messagedate: ""
   messagetitle: ""
