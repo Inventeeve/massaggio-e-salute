@@ -2,7 +2,7 @@
 template: HomePage
 slug: /
 featuredImage: /images/camille-brodard-vxawteiqdao-unsplash.jpg
-title: Massggio è salute
+title: Massaggio è salute
 subtitle: "[ sottotitolo ]"
 focusmessage:
   messagedate: ""
