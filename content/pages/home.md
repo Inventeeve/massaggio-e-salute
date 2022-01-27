@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: /
-featuredImage: /images/logo.jpg
+featuredImage: /images/mano-logo.png
 title: Massaggio è salute
 subtitle: ""
 focusmessage:
