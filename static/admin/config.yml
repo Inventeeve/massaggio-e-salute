@@ -35,7 +35,12 @@ collections:
               widget: string,
               required: false,
             }
-
+          - {
+              label: Descrizione,
+              name: description,
+              widget: string,
+              required: false,
+            }
           - {
               label: Messaggio focus,
               name: focusmessage,
