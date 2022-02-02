@@ -4,13 +4,20 @@ slug: /
 featuredImage: /images/mano-logo.png
 title: Massaggio è salute
 subtitle: ""
+description: "Sono Marta Salvadori, classe 1981. Laureata in Farmacia presso
+  l’Università degli Studi di Milano. Ho lavorato come farmacista per otto anni,
+  cercando, dove possibile, di “curare” e consigliare i clienti con alternative
+  ai tradizionali farmaci proponendo: omeopatia, oli essenziali etc. Questo mio
+  approccio “verde” mi ha portato ad approfondire lo studio e la ricerca del
+  BENESSERE della persona, intraprendendo lo studio del MASSAGGIO OLISTICO."
 focusmessage:
   messagedate: ""
   messagetitle: ""
-  messagedescription: Trattamenti SPA, trattamenti viso antirughe, filler, acido
-    glicolico, trattamenti corpo modellanti anticellulite con bagni di vapore,
-    pedicure curativo, ricostruzione unghie, smalto semipermanente, depilazione,
-    trucco.
+  messagedescription: "Ho preso il diploma Wellness presso la “Scuola Nazionale”
+    di Milano, specializzandomi nei massaggi:   ●\tMassaggio Classico Svedese
+    ●\tMassaggio Sportivo ●\tMassaggio Decontratturante ●\tMassaggio Ayurvedico
+    ●\tMassaggio Thailandese ●\tMassaggio Linfodrenante Vodder ●\tMassaggio
+    Cranio Sacrale."
 blurbs:
   - title: NO CELL (Anti-Cellulite e Anti-Age)
     body: Per combattere cellulite ed invecchiamento cutaneo
@@ -135,7 +142,4 @@ footer:
     facebook: https://www.facebook.com/Summa.Laura.77
     instagram: https://www.instagram.com/sirio.lastelladelbenessere/
     twitter: ""
-description: Sirio la stella del benessere e' un centro estetico sito in
-  Cogliate specializzato in diverse tipologie di trattamenti estetici,
-  personalizzati ed avanzati.
 ---
