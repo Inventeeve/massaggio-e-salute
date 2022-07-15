@@ -27,9 +27,14 @@ blurbs:
       perfettamente ad alleviare il dolore alla schiena, soprattutto nella zona
       cervicale e lombare e agli arti inferiori.
     image: /images/decontratturante-da-fb.jpg
-  - title: BLUE ANTIOX
-    body: Nuova vitalità per la pelle spenta e stressata
-    image: /images/pelle-spenta-e-tressata.jpg
+  - title: MASSAGGIO CLASSICO SVEDESE
+    body: >-
+      Eseguito per favorire il rilassamento,\
+
+      tonifica i muscoli e scioglie le tensioni riducendone il dolore.\
+
+      Stimola la circolazione sanguigna e linfatica, favorisce l'eliminazione di tossine e liquidi in eccesso riducendo la cellulite e l'effetto a buccia d'arancia.
+    image: /images/svedese-da-fb.jpg
 prices:
   pricestitle: Listino Prezzi
   pricesdescription: Il costo di alcuni trattamenti verrà concordato in negozio con il cliente.
