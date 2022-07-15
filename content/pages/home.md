@@ -19,9 +19,14 @@ focusmessage:
     ●\tMassaggio Thailandese ●\tMassaggio Linfodrenante Vodder ●\tMassaggio
     Cranio Sacrale."
 blurbs:
-  - title: Massaggio decontratturante
-    body: Massaggio decontratturante
-    image: /images/azione-anti-cellulite.jpg
+  - title: MASSAGGIO DECONTRATTURANTE
+    body: Eseguito con lo scopo di sciogliere le contratture muscolari, le quali
+      sono contrazioni involontarie, persistenti e dolorose dei muscoli
+      scheletrici. Prevede manipolazioni, eseguite con olio vettore, atte a
+      migliorare la mobilità muscolare, riducendo il dolore percepito. Si presta
+      perfettamente ad alleviare il dolore alla schiena, soprattutto nella zona
+      cervicale e lombare e agli arti inferiori.
+    image: /images/decontratturante-da-fb.jpg
   - title: BLUE ANTIOX
     body: Nuova vitalità per la pelle spenta e stressata
     image: /images/pelle-spenta-e-tressata.jpg
