@@ -19,8 +19,8 @@ focusmessage:
     ●\tMassaggio Thailandese ●\tMassaggio Linfodrenante Vodder ●\tMassaggio
     Cranio Sacrale."
 blurbs:
-  - title: NO CELL (Anti-Cellulite e Anti-Age)
-    body: Per combattere cellulite ed invecchiamento cutaneo
+  - title: Massaggio decontratturante
+    body: Massaggio decontratturante
     image: /images/azione-anti-cellulite.jpg
   - title: BLUE ANTIOX
     body: Nuova vitalità per la pelle spenta e stressata
